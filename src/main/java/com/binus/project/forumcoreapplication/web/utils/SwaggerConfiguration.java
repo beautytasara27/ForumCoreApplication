@@ -32,7 +32,7 @@ import java.util.Collections;
                 "",
                 "1.0",
                 "Terms of service",
-                new Contact("", "0000000000000000", "tatendatasara@gmail.com"),
+                new Contact("", "0000000000000000", "beautytasara@gmail.com"),
                 "License of API", "API license URL", Collections.emptyList());
     }
 
