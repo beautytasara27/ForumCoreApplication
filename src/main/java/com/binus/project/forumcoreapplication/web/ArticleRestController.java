@@ -12,7 +12,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("v1/articles")
-@CrossOrigin(origins = {"https://5ee67ef494e11be92b99cf62--blissful-mayer-5672f4.netlify.app","http://localhost:3000"})
+@CrossOrigin(origins = {"https://mentalhealthfirst.social","http://localhost:3000"})
 class ArticleRestController {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ArticleService.class);
