@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("v1/posts")
-@CrossOrigin(origins = {"https://mentalhealthfirst.social","http://localhost:3000"})
+@CrossOrigin(origins = {"https://mentalhealthfirst.netlify.app","http://localhost:3000"})
 public class PostRestController {
 
 
